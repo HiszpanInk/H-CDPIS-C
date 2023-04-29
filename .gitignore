@@ -1,1 +1,3 @@
 .venv
+example_data.json
+!main/example_data.json
