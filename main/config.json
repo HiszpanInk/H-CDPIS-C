@@ -1,0 +1,7 @@
+{
+    "connection_details": {
+        "topic": "test",
+        "ip_address" : "",
+        "port" : "9092"
+    }
+}
